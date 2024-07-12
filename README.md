@@ -12,6 +12,9 @@ The task was easy for me, but took some time to understand how to correctly plac
 * The carousel with participant cards should be looped and change automatically every 4 seconds.
 * The carousel with stages should not be looped and should not automatically change slides.
 
+## Live preview
+
+Chess Website <a href="https://koatkoetl.github.io/Chess-website/" alt="chess website">click link to preview</a>
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/21b8a6ff-a58b-4bbd-9acd-ae825ae49425) 
