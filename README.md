@@ -1,5 +1,5 @@
 # Chess Website
-This is a landing of chess website, which I did for the Yandex Craud. </br>
+This is a landing of chess website, which I did for the Yandex Crowd. </br>
 The task was to create it using only HTML, CSS, JavaScript. Any library or framework aren't welcome. </br>
 The task was easy for me, but took some time to understand how to correctly place all the stuff on page, to make it responsive.
 
